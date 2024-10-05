@@ -3,7 +3,7 @@
 $hostname = "127.0.0.1";
 $username = "root";
 $password = "";
-$database = "job_portal";
+$database = "job_portal_9";
 
 $con = mysqli_connect($hostname, $username, $password);
 
